@@ -1,0 +1,2 @@
+# WayGit
+commands workon
